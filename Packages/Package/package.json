@@ -3,7 +3,7 @@
   "version": "1.0.0-beta.1",
   "displayName": "Yandex Games Plugin",
   "description": "Simple WebGl plugin for yandex games",
-  "unity": "2021.3.20",
+  "unity": "2021.3",
   "documentationUrl": "https://github.com/Arikaton/yandex-games-plugin/blob/main/README.md",
   "licensesUrl": "https://example.com/licensing.html",
   "keywords": [
@@ -13,6 +13,6 @@
   ],
   "author": {
     "name": "Arikaton",
-    "email": "arikaton58246@gmail.com",
+    "email": "arikaton58246@gmail.com"
   }
 }
